@@ -19,6 +19,6 @@ a:hover {
 }
 
 #bird {
-    border: black;
+    border: 1rem solid;    
     padding: 15px;
 }
