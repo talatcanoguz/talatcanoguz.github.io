@@ -10,15 +10,15 @@ a:hover {
     background-color: yellow;
   }
 
-.second{
+.second {
     font-weight: bold;
 }
 
-#bottomDiv{
+#bottomDiv {
     background-color: cornflowerblue;
 }
 
-#bird{
+#bird {
     border: black;
     padding: 15px;
 }
