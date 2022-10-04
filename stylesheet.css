@@ -17,3 +17,8 @@ a:hover {
 #bottomDiv{
     background-color: cornflowerblue;
 }
+
+#bird{
+    border: black;
+    padding: 15px;
+}
