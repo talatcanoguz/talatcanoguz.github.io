@@ -1,0 +1,11 @@
+h2 {
+    color: teal
+}
+
+a:hover {
+    background-color: blue;
+  }
+
+.second{
+    font-weight: bold;
+}
