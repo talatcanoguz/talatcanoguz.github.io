@@ -2,10 +2,18 @@ h2 {
     color: teal
 }
 
+li {
+    font-size: large;
+}
+
 a:hover {
     background-color: blue;
   }
 
 .second{
     font-weight: bold;
+}
+
+#bottomDiv{
+    background-color: cornflowerblue;
 }
